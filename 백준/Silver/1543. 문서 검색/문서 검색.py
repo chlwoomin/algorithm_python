@@ -1,3 +1,4 @@
+#1543
 document = input()
 word = input()
 cnt = 0
